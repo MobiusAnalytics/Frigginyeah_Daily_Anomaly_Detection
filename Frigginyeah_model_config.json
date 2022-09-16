@@ -1,0 +1,22 @@
+{
+    "Input_file_path":"Daily_Input/",
+	"Train_file_path":"Train_data/",
+	"Error":"Error/",
+    "Anomaly_output":"Output/",
+    "Pickle_files":"Pickle_files/",
+	"Train data summary":"Train_summary/",	
+	"Train data Anomaly summary":"Train_anomaly/",
+	"Test data summary":"Input_summary/",
+	"HOST":"72.55.168.6",
+	"USERNAME":"perlzuser",
+	"PSWD":"oR9kO7bT1r",
+	"dirName_train":"/Frigginyeah_Daily/Script_Input/ML_input/3_months_data",
+	"dirName_test":"/Frigginyeah_Daily/Script_Input/ML_Input/Daily_Input",
+	"dirName_Archive":"/Frigginyeah_Daily/Script_Input/ML_input/ML_Archive",
+	"filematch":"*.txt",
+	"target_dir_test":"Daily_Input/",
+	"Output_path":"/Frigginyeah_Daily/Scraped_Output/Anomaly_output/Dump",
+	"Output_file":"Output/",
+	"Archive_path":"Archive/",
+	"Train data Properties":"Train_data_Properties/"
+}

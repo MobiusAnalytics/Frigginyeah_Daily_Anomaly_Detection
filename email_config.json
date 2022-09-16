@@ -1,0 +1,18 @@
+{
+    "from": "daalerts@mobiusservices.com",
+    "password": "D@alert5",
+    "to": [
+	    "eshwarraj.vimalraj@mobiusservices.com",
+		"mariajasmine.francisxavier@mobiusservices.com",
+        "surender.elangovan@mobiusservices.in",
+		"bharani.govindharaj@mobiusservices.com",
+		"eshwarraj.vimalraj@mobiusservices.com",
+		"frigginyeahsupport@mobiusservices.com"
+    ],
+	"to1": [
+        "surender.elangovan@mobiusservices.in",
+		"mariajasmine.francisxavier@mobiusservices.com"
+    ],
+    "subject": "NOTIFICATION - Frigginyeah data anomaly detection",
+    "smtp_server": "smtp.gmail.com:587"
+}
